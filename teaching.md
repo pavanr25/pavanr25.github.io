@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: Teaching Experience
 permalink: /teaching/
 ---
 
-## Teaching Experience
-
-I have been a teaching assistant 
+Coming soon...
 
