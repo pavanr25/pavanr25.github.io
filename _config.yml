@@ -1,19 +1,23 @@
-# _config.yml
-title: Welcome to My Personal Website
+# Site Settings
+title: Pavan Ravi
 author: Pavan Ravi
 email: pavanr2@illinois.edu
-description: >- # This means you can write a multi-line description
-  Welcome to my personal website, where I share my projects.
+description: >-
+  Ph.D. candidate in Theoretical and Applied Mechanics at UIUC, 
+  specializing in computational mechanics and high-performance computing.
 
-# Basic Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pavanr25.github.io" # the base hostname & protocol for your site
+# URLs
+baseurl: ""
+url: "https://pavanr25.github.io"
 
-# Theme Configuration
-# Use one of the official GitHub Pages themes to start simple:
-# For a list of themes, search "Jekyll themes GitHub Pages"
+# Theme
 theme: minima
 
-# Build Settings
+# Plugins
 plugins:
   - jekyll-feed
+
+# Optional: Minima theme customizations
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/pavanr25" }
