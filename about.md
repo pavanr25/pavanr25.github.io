@@ -12,7 +12,8 @@ I work with Prof. Robert Haber in the area of computational mechanics with a foc
 
 ### Skills
 
-- **Programming Languages:** C++, Python, MATLAB
+- **Programming Languages:** C, C++, Python, MATLAB
 - **Parallel Frameworks:** C++ threads, OpenMP, MPI
+- **Visualization:** ParaView
 
 You can contact me at: [pavanr2&#64;illinois.edu](mailto:pavanr2&#64;illinois.edu)

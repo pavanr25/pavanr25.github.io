@@ -7,3 +7,14 @@ body {
   background: linear-gradient(135deg, #e0f7fa 0%, #e1bee7 100%);
   background-attachment: fixed;
 }
+
+.page-content {
+  background: transparent;
+}
+
+.wrapper {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
